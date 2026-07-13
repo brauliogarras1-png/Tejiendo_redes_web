@@ -21,5 +21,7 @@ Aprobación obligatoria: Ningún código pasa a producción sin comprobar que el
 Para mantener el historial limpio y saber exactamente qué hizo cada quien, utilizaremos la siguiente nomenclatura:
 
 Ingeniero 1 (UI/UX),feat/frontend,UI:,Maquetación HTML/CSS.
+
 Ingeniero 2 (Nube),feat/firebase,DB: / HOST:,Conexión a Firestore y despliegue.
-Ingeniero 3 (Datos),feat/analytics,SEO: / API:,"Workspace, Webhooks y Google Analytics."
+
+Ingeniero 3 (Datos),feat/analytics,SEO: / API:,"Workspace, Webhooks y Google Analytics.
