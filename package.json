@@ -1,0 +1,29 @@
+{
+  "name": "tejiendo_redes_web",
+  "version": "1.0.0",
+  "description": "Pagina web para la organizacion tejiendo redes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brauliogarras1-png/Tejiendo_redes_web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/brauliogarras1-png/Tejiendo_redes_web/issues"
+  },
+  "homepage": "https://github.com/brauliogarras1-png/Tejiendo_redes_web#readme",
+  "dependencies": {
+    "firebase": "^12.16.0",
+    "vite": "^8.1.4"
+  },
+  "allowScripts": {
+    "@firebase/util@1.15.1": true,
+    "protobufjs@7.6.5": true
+  }
+}

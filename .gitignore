@@ -70,3 +70,8 @@ node_modules/
 
 # Jetbrains IDE's
 .idea/
+
+# Build de Vite
+dist/
+
+#.env
